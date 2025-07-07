@@ -126,7 +126,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shaik-AbbasBasha&show_icons=true&locale=en" alt="Abbas Basha" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shaik-AbbasBasha&" alt="Abbas Basha" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SreeramAjay&show_icons=true&locale=en&layout=compact" alt="Abbas Basha" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shaik-AbbasBasha&show_icons=true&locale=en&layout=compact" alt="Abbas Basha" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shaik-AbbasBasha" alt="Abbas Basha" /></a></p>
 
 
