@@ -1,85 +1,70 @@
 <h1 align="center">Hi 👋, I'm Shaik Abbas Basha</h1>
 
+<h3 align="center">🚀 Full Stack Developer | Java | Web Enthusiast</h3>
+
 <p align="center">
-  A passionate Full Stack Developer from India 🚀
+  💻 Passionate about building scalable web applications <br>
+  🌱 Currently learning: Advanced Java & Spring Boot <br>
+  🎯 Goal: Become a Top Software Engineer
 </p>
 
-<h2 align="center">🚀 Languages and Tools I Use</h2>
+---
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+SQL;Frontend+%7C+Backend+Developer;Always+Learning+New+Things" />
+</p>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42" height="42" alt="C"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" height="42" alt="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="42" height="42" alt="Vue.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="42" height="42" alt="React"/>
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="42" height="42" alt="Angular"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="42" height="42" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="42" height="42" alt="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="42" height="42" alt="Bootstrap"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="42" height="42" alt="Redux"/>
-  <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" width="42" height="42" alt="Babel"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="42" height="42" alt="Tailwind CSS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="42" height="42" alt="Node.js"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="42" height="42" alt="Spring"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="42" height="42" alt="Express"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" width="42" height="42" alt="React Native"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="42" height="42" alt="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="42" height="42" alt="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="42" height="42" alt="PostgreSQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="42" height="42" alt="Oracle"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" width="42" height="42" alt="D3.js"/>
-  <img src="https://www.chartjs.org/media/logo-title.svg" width="42" height="42" alt="Chart.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="42" height="42" alt="AWS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="42" height="42" alt="Docker"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="42" height="42" alt="Bash"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="42" height="42" alt="Azure"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="42" height="42" alt="Firebase"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="42" height="42" alt="Django"/>
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="42" height="42" alt="Illustrator"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="42" height="42" alt="Photoshop"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="42" height="42" alt="Figma"/>
-  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" width="42" height="42" alt="Framer"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="42" height="42" alt="Postman"/>
+---
+
+<h2 align="center">🚀 Tech Stack</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,mysql,git,github,vscode" /><br><br>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+<img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
 
 </div>
 
 ---
 
-<h2 align="center">⚡ Where to find me</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shaik-abbas-basha/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://www.instagram.com/abbas_basha86/?hl=en" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shaik-AbbasBasha&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaik-AbbasBasha&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shaik-AbbasBasha&show_icons=true&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shaik-AbbasBasha&show_icons=true&locale=en" />
-</p>
+<h2 align="center">🏆 Achievements</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaik-AbbasBasha" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shaik-AbbasBasha&show_icons=true&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shaik-AbbasBasha" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shaik-AbbasBasha&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-<h3 align="center">Profile 3D Contributions 🔰</h3>
+<h3 align="center">🐍 Contribution Snake</h3>
 
 <p align="center">
   <img src="https://github.com/NimeshPiyumantha/red-alpha/blob/main/github-contribution-grid-snake.svg" />
@@ -87,6 +72,41 @@
 
 ---
 
+<h2 align="center">🌐 Connect with Me</h2>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+  <a href="https://www.linkedin.com/in/shaik-abbas-basha/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  &nbsp;&nbsp;
+
+  <a href="https://www.instagram.com/abbas_basha86/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  &nbsp;&nbsp;
+
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Send%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&color=F75C7E&center=true&vCenter=true&width=400&lines=Let's+Connect+%F0%9F%A4%9D;Open+for+Opportunities;Always+Ready+to+Collaborate" />
+</p>
+
+---
+
+<p align="center">
+  ⭐ "Code. Learn. Build. Repeat." ⭐
+</p>
+
+---
+
+<!-- Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
