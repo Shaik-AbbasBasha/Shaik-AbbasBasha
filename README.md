@@ -51,7 +51,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaik-AbbasBasha&show_icons=true&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shaik-AbbasBasha&show_icons=true&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -67,7 +67,7 @@
 <h3 align="center">🐍 Contribution Snake</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shaik-AbbasBasha/Shaik-AbbasBasha/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/NimeshPiyumantha/red-alpha/blob/main/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -88,7 +88,7 @@
 
   &nbsp;&nbsp;
 
-  <a href="mailto:shaikabbasbasha@gmail.com">
+  <a href="mailto:your-email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Send%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
@@ -101,12 +101,12 @@
 ---
 
 <p align="center">
-  ⭐ <b>Code. Learn. Build. Repeat.</b> ⭐
+  ⭐ "Code. Learn. Build. Repeat." ⭐
 </p>
 
 ---
 
 <!-- Footer Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>  fix errors  
 </p>
