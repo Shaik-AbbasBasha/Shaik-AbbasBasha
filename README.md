@@ -3,110 +3,148 @@
 <h3 align="center">🚀 Full Stack Developer | Java | Web Enthusiast</h3>
 
 <p align="center">
-  💻 Passionate about building scalable web applications <br>
-  🌱 Currently learning: Advanced Java & Spring Boot <br>
+  💻 Passionate about building scalable web applications<br>
+  🌱 Currently learning: Advanced Java & Spring Boot<br>
   🎯 Goal: Become a Top Software Engineer
 </p>
 
 ---
 
 <!-- Typing Animation -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+SQL;Frontend+%7C+Backend+Developer;Always+Learning+New+Things" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+SQL;Frontend+%7C+Backend+Developer;Always+Learning+New+Things"
+    alt="Typing Animation"
+  />
 </p>
 
 ---
 
 <h2 align="center">🚀 Tech Stack</h2>
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,mysql,git,github,vscode"
+    alt="Main Tech Stack"
+  />
+</p>
 
-<img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,mysql,git,github,vscode" /><br><br>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-<img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
-
-</div>
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=c,python,typescript,angular,bootstrap,express,mongodb,postgresql,docker,aws,firebase,postman"
+    alt="Additional Technologies"
+  />
+</p>
 
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shaik-AbbasBasha&show_icons=true&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Shaik-AbbasBasha&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaik-AbbasBasha&theme=tokyonight" />
+  <img
+    src="https://streak-stats.demolab.com?user=Shaik-AbbasBasha&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shaik-AbbasBasha&show_icons=true&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-<h2 align="center">🏆 Achievements</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shaik-AbbasBasha&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-<h3 align="center">🐍 Contribution Snake</h3>
-
-<p align="center">
-  <img src="https://github.com/NimeshPiyumantha/red-alpha/blob/main/github-contribution-grid-snake.svg" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaik-AbbasBasha&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 ---
 
-<h2 align="center">🌐 Connect with Me</h2>
+<h2 align="center">🏆 GitHub Achievements</h2>
 
 <p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Shaik-AbbasBasha&theme=tokyonight&no-frame=true&row=1&column=6"
+    alt="GitHub Trophies"
+  />
+</p>
 
+---
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
+
+---
+
+<h2 align="center">🌐 Connect With Me</h2>
+  <!-- LinkedIn -->
+<p align="center">
   <a href="https://www.linkedin.com/in/shaik-abbas-basha/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      width="170"
+      height="45"
+      style="border-radius:12px;"
+      alt="LinkedIn"
+    />
   </a>
 
-  &nbsp;&nbsp;
-
-  <a href="https://www.instagram.com/abbas_basha86/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-
-  &nbsp;&nbsp;
-
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Send%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-</p>
-
+  <!-- Instagram -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&color=F75C7E&center=true&vCenter=true&width=400&lines=Let's+Connect+%F0%9F%A4%9D;Open+for+Opportunities;Always+Ready+to+Collaborate" />
+  <a href="https://www.instagram.com/abbas_basha86/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      width="170"
+      height="45"
+      style="border-radius:12px;"
+      alt="Instagram"
+    />
+  </a>
+
+  <!-- Gmail -->
+<p align="center">
+  <a href="mailto:shaikabbasbasha192@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Gmail-Send%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      width="170"
+      height="45"
+      style="border-radius:12px;"
+      alt="Gmail"
+    />
+  </a>
+
 </p>
 
 ---
 
 <p align="center">
-  ⭐ "Code. Learn. Build. Repeat." ⭐
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Let's+Connect+%F0%9F%A4%9D;Open+for+Opportunities;Always+Ready+to+Collaborate"
+    alt="Connect Animation"
+  />
 </p>
+
+---
+
+<h3 align="center">⭐ "Code. Learn. Build. Repeat." ⭐</h3>
 
 ---
 
 <!-- Footer Wave -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>  fix errors  
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"
+    alt="Footer Wave"
+  />
 </p>
